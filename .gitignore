@@ -7,6 +7,10 @@ site/
 /includes/flowcharts/.$radarr-flowchart.drawio.bkp
 .DS_Store
 # From forking
+
+docs/*
+!docs/json
+
 images/
 includes/
 overrides/
