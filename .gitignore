@@ -6,3 +6,8 @@ site/
 /docs/Notifiarr/Integrations/_TEMPLATE.md
 /includes/flowcharts/.$radarr-flowchart.drawio.bkp
 .DS_Store
+images/
+includes/
+overrides/
+.github
+.vscode
