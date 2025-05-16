@@ -19,6 +19,5 @@ overrides/
 
 .gitattributes
 .imgbotconfig
-.pre-commit-config.yaml
 mkdocs.yml
 yamllint.yml
