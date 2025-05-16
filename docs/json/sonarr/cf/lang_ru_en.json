@@ -1,0 +1,30 @@
+{
+  "trash_id": "023bff7f09e6b25fa3f10f0a9667ff47",
+  "trash_scores": {
+    "default": 10000
+  },
+  "name": "Want Languages: Russian + English",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Russian",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": 11,
+        "exceptLanguage": false
+      }
+    },
+    {
+      "name": "English",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": 1,
+        "exceptLanguage": false
+      }
+    }
+  ]
+}
