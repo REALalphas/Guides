@@ -6,8 +6,15 @@ site/
 /docs/Notifiarr/Integrations/_TEMPLATE.md
 /includes/flowcharts/.$radarr-flowchart.drawio.bkp
 .DS_Store
+# From forking
 images/
 includes/
 overrides/
-.github
-.vscode
+.github/
+.vscode/
+
+.gitattributes
+.imgbotconfig
+.pre-commit-config.yaml
+mkdocs.yml
+yamllint.yml
