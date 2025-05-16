@@ -10,7 +10,7 @@
       "name": "Russian",
       "implementation": "LanguageSpecification",
       "negate": false,
-      "required": true,
+      "required": false,
       "fields": {
         "value": 11,
         "exceptLanguage": false
